@@ -81,7 +81,7 @@ global.Key360 = ['964f-0c75-7afc'] //keys ephoto360
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'TROPA DUEL \n\n\n+5521996815444'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.author = 'WILBOT'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 

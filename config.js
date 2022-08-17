@@ -6,16 +6,16 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['50495086382'],
+  ['558588560418', 'WLBOT🔥', true],
+  ['557398692577', 'WLBOT🔥 2', true],
+  ['558888146979', 'WLBOT🔥 3', true],
+  ['558588560418'],
   ['593968585383'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['557398692577'], 
 
 global.APIs = { // API Prefix.
   
@@ -80,7 +80,7 @@ global.Key360 = ['964f-0c75-7afc'] //keys ephoto360
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.packname = 'TROPA DUEL \n\n\n+5521996815444'
 global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -91,28 +91,28 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.2.10'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'WLBOT-MD'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/channel/UCCmBs9bZcTzrV6ieQWGAVQw'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/will_ffff/'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = ''
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/CunoFmEfBW75APfI0ZO5DJ'
+global.nn = 'https://chat.whatsapp.com/Faz1ufb3griGvnMlkVNrAg'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/KDTSNka7Z82Jr2iO3S2Dfo'
+global.nnn = ''
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/GiodIwTRDek4QMPJd2jpPH'
+global.nnnt = ''
 global.nnngrupo = nnnt //Grupo 3
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = ''
 global.donar = paypal
 
 //global.gataimg = fs.readFileSync('./media/menus/Menu3.jpg')
@@ -148,8 +148,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝗪𝗟𝗕𝗢𝗧-𝗠𝗗'
+global.igfg = '𝗪𝗟𝗕𝗢𝗧-𝗠𝗗'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━lolkeys━━━━━━━━━
